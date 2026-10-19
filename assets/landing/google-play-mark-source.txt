@@ -1,0 +1,5 @@
+Official Google-hosted Play mark, preserved without alteration:
+https://www.gstatic.com/android/market_images/web/play_prism_160px.png
+
+Used as the decorative platform identifier inside the website's own download link.
+The button is a website component, not a modified official Google Play badge.
