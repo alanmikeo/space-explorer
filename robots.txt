@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alanmikeo.github.io/space-explorer/sitemap.xml

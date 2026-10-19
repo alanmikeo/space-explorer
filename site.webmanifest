@@ -1,0 +1,16 @@
+{
+  "name": "Space Explorer: Idle Tycoon",
+  "short_name": "Space Explorer",
+  "id": "https://alanmikeo.github.io/space-explorer/",
+  "start_url": "https://alanmikeo.github.io/space-explorer/",
+  "display": "browser",
+  "background_color": "#060a15",
+  "theme_color": "#060a15",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

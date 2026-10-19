@@ -1,0 +1,40 @@
+Music:
+"Rocket Power" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+
+Source track page:
+https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1600038
+Alternate official track page indexed during preparation:
+https://remote.incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1600038
+Source MP3:
+https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rocket%20Power.mp3
+
+The thirty-second trailer uses a trimmed excerpt, approximately 16–46 seconds into the track,
+with volume adjustment, fades, game sound effects and loudness normalization.
+
+Include the music credit and license link in the published video's description
+or other attribution location appropriate to the publication. The license
+requires attribution; this file is not a no-attribution paid license.
+
+Game sound effects: Kenney — Interface Sounds and Sci-Fi Sounds (CC0).
+https://kenney.nl/assets/interface-sounds
+https://kenney.nl/assets/sci-fi-sounds
+Original licenses: assets/audio/sfx/LICENSE_KENNEY_INTERFACE.txt and
+assets/audio/sfx/LICENSE_KENNEY_SCIFI.txt.
+
+Typography: Space Grotesk, SIL Open Font License.
+Original license: assets/fonts/OFL-SpaceGrotesk.txt.
+
+Footage: Space Explorer: Idle Tycoon — existing game models and animations,
+rendered in Godot from separately staged local demonstration layouts.
+No reference-trailer footage, synthetic narration or external video imagery.
+
+Additional sound: original short air sweep and low impact generated locally for the logo reveal.
+End logo: approved Space Explorer: Idle Tycoon PC wordmark, re-rendered from its original editable typography at 1800 x 1200 pixels, transparent PNG.
+
+
+Google Play badges: Google, official localized digital PNG assets, downloaded unmodified from Partner Marketing Hub on 2026-10-18.
+https://partnermarketinghub.withgoogle.com/brands/google-play/google-play/lockups-icons-badges/?folder=86642
+Google Play and the Google Play logo are trademarks of Google LLC.
+
